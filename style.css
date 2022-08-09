@@ -1,0 +1,35 @@
+
+.uno{
+		display: grid;place-items : center;background: #7e0202;
+		text-align: center;
+		
+		
+		
+}
+body{
+	background-color: rgb(41, 44, 255);
+}
+
+
+#boras{
+	font-size: 35px
+}
+
+#primeiro{
+ height: 540px;
+
+ border :10px solid #000000;
+
+}
+.twwo{
+	background-color:#6900af;
+}
+body ul li{
+	text-align:left;
+	font-size: 22px;
+	background-color: rgb(153, 0, 255);
+	
+}
+.juni{
+	display: grid;place-items : center;
+}
